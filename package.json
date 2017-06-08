@@ -1,0 +1,9 @@
+{
+  "main": "dist/fart2bot.js",
+  "dependencies": {
+    "@types/twit": "^2.2.5",
+    "moment": "^2.18.1",
+    "twit": "^2.2.5",
+    "typescript": "^2.3.4"
+  }
+}
