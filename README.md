@@ -1,5 +1,9 @@
 ### TWITTER BOT FOOLTHEFOX
 
+*Twitter bot in action*
+
+<img src="http://i.imgur.com/b0aKU3X.png" width="500px" height="300px" />
+
 ## Reason to waist my time on this project
 
 I used this project as a practice after the lesson on Typescript that I had at @Codaisseur on the 8th of June.
